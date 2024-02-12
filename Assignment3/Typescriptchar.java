@@ -9,7 +9,7 @@ class Typescriptchar{
         System.out.println("char a and b long -"+(long) (a*b));
         System.out.println("char a and b float -"+(float) (a%b));
         System.out.println("char a and b double -"+(double) (a/b));
-        System.out.println("char a and b char  -" +(char)(a+b));//it showing h
+        System.out.println("char a and b byte  -" +(byte)(a+b));
        // System.out.println("char a in boolean -"+(boolean) a);
 
     }

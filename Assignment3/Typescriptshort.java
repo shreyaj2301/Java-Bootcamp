@@ -6,11 +6,11 @@ class Typescriptshort{
         short b = 23;
 
         System.out.println("short a and b as int -" +(int)(a+b)); // print as pretty printing
-        System.out.println("short a and bas byte -"+(short) (a-b));
-        System.out.println("short a and b long -"+(long) (a*b));
-        System.out.println("short a and b float -"+(float) (a%b));
-        System.out.println("short a and b double -"+(double) (a/b));
-        System.out.println("short a and b char  -" +(char)(a+b)); // it showing ]
+        System.out.println("short a and b as byte -"+(byte) (a-b));
+        System.out.println("short a and b as long -"+(long) (a*b));
+        System.out.println("short a and b as float -"+(float) (a%b));
+        System.out.println("short a and b as double -"+(double) (a/b));
+        System.out.println("short a and b as char  -" +(char)(a+b)); // it showing ]
       //  System.out.println("short a in boolean -"+(boolean) a);
 
     }
