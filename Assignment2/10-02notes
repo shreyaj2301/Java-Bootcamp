@@ -1,0 +1,106 @@
+Date: 10 Feb 2024
+Time: 06:00 PM
+Day 3
+Course: CSE Bootcamp 
+
+
+Topic: Data Types, variables and operators
+
+Data Type - Type of data
+
+
+Q. Is java statically typed or dynamically typed language?
+- Java is a statically typed language
+
+Statically typed language -
+Whenever we want to store something in programming/java we have to tell what type of data we are going to store.
+
+128 64 32 16 8  4  2  1
+[0, 0, 0, 0, 1, 0, 0, 0]
+
+0, 1 is nothing but a bit.
+ 
+8 bits group - 1 byte
+
+
+Numbers - 
+	byte -> 1 byte - 8bits  (-128 to 127)
+	short -> 2 byte - 16bits (-32768 to 32767)
+	int -> 4 byte - 32bits (-2^31 to 2^31 - 1)
+	long -> 8 byte - 64bits (-2^63 to 2^63 - 1)
+
+
+Decimal Numbers-
+	float - 4 byte  - 32bits
+	double - 8 byte  - 64bits
+	
+Characters -
+	char - 2byte - 16bits
+
+Boolean -
+	boolean - 1bit
+
+
+byte > short > int > long > float > double > char > boolean
+Primitive datatypes - These are the datatypes which holds only single value.
+
+
+String -
+	String
+
+
+
+Variables - 
+	Name given to a memory location
+	Named memory location
+
+
+Syntax - 
+data_type varaiable_name = value;
+
+
+rules to define name of a varaiable -> 
+	accountNumber
+	account_number
+	AccountNumber
+	account_Number
+
+Keywords - Reserved words in java
+	e.g - byte, short, int, long, double, float, class, public, static, void
+
+
+Identifier - It is a name given to a class, varaiable or method
+
+	Identifier must contain characters only from a-z, A-Z, 0-9, $, _
+	Identifier must not begin with any digit e.g 0accountnumber->X, 18accountnumber-> X, account18, _accountnumber, $accountnumber.
+	Identifier must not be any keyword.
+
+	int _byte = 21; - X
+
+
+Standards -> 
+Class - always start with a capital letter
+Variables - always starts with a small letter or underscore or dollar
+
+
+
+Operators -> Operations
+It is symbol used perform some operations on any values
+The data on which we perform operations is called operand
+
+
+ 10 + 10
+
++, -, *, /, %
+
+Types of operators
+	-Arithematic operator: +, -, /, *, %
+
+
+Assignment -
+
+8 datatypes -> for each datatype perform all the arithematic operator
+5 operators
+
+mixed operation check ki error, answer.
+12 mixed with there outputs and the errors.
