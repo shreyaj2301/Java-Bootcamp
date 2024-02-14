@@ -1,4 +1,4 @@
-class Typescriptint{
+class Typecastint{
     public static void main(String[]args)
     {  
         // int  showing as byte, short,float,double,char,boolean,long

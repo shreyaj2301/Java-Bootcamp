@@ -1,0 +1,35 @@
+Date: 12 Feb 2024
+Time: 08:30 AM
+Day 4
+Course: CSE Bootcamp 
+
+
+Topic: Type Casting, Git and GitHub
+
+Git - Version Controlling Tool
+
+U - untracked
+A - added
+M - modified
+
+commands - 
+    git init : it will initialize a empty git repository in you project folder
+    git add . : it adds the each and every file to the staging area
+    git add CharacterDemo.java : it adds the specific file to the staging area
+    git status :  it shows us which files are in staging area and whichare not in staging area
+    git commit -m "added new feature"
+
+
+
+GitHub - 
+    git branch -M main: it create a new main branch in the repository
+    git remote add origin url: it will connect out local machine to the remote github repository
+    git push -u origin main: changes that are commited will be uploaded to the github repository
+
+
+
+Type Casting - 
+    Converting one dayatype into another is called as type casting
+
+    Implicit type casting - automatically done by java
+    Explicit type Casting - we have to provide what type to change

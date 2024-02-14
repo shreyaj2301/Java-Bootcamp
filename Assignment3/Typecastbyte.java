@@ -1,4 +1,4 @@
-class Typescriptbyte{
+class Typecastbyte{
     public static void main(String[]args)
     {  
         // byte  showing as int, short,float,double,char,long,boolean

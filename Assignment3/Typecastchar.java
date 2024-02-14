@@ -1,4 +1,4 @@
-class Typescriptchar{
+class Typecastchar{
     public static void main(String[]args)
     {  
         // char showing as int, short,float,double,byte,long,boolean

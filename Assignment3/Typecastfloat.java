@@ -1,4 +1,4 @@
-class Typescriptfloat{
+class Typecastfloat{
     public static void main(String[]args)
     {  
         // float  showing as int, short,byte,double,char,long,boolean

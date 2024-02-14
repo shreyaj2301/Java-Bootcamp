@@ -1,4 +1,4 @@
-class Typescriptdouble{
+class Typecastdouble{
     public static void main(String[]args)
     {  
         // double showing as int, short,float,byte,char,long,boolean
@@ -9,7 +9,7 @@ class Typescriptdouble{
         System.out.println("double a and b as long -"+(long) (a*b));
         System.out.println("double a and b as float -"+(float) (a%b));
         System.out.println("double a and b as  byte -"+(byte) (a/b));
-        System.out.println("double a and b as char  -" +(char)(a+b));
+        System.out.println("double a and b as char  -" +(char)(a+b)); // it showing ?
         //System.out.println("double a in boolean -"+(boolean) a);
 
     }

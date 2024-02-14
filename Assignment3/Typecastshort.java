@@ -1,4 +1,4 @@
-class Typescriptshort{
+class Typecastshort{
     public static void main(String[]args)
     {  
         // short  showing as int, byte,float,double,char,long,boolean
@@ -14,4 +14,3 @@ class Typescriptshort{
       //  System.out.println("short a in boolean -"+(boolean) a);
 
     }
-}

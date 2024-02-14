@@ -1,4 +1,4 @@
-class Typescriptlong{
+class Typecastlong{
     public static void main(String[]args)
     {  
         // long  showing as int, short,float,double,char,byte,boolean
