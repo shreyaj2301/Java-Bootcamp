@@ -1,0 +1,30 @@
+Date: 09 Feb 2024
+Time: 07:00 PM
+Day 2
+Course: CSE Bootcamp 
+
+
+Topic: 
+	-Features Of Java
+	-Our First Program
+
+
+Interview Questions -
+
+Q. Is java compiled language or interpreted language?
+- Both
+
+
+
+First Java Program -
+
+	class Demo {
+		public static void main(String[] args){
+			System.out.println("CSE Bootcamp");
+		}
+	}
+
+
+Line 1 -> You have to wrap java code into a class
+Line 2 -> It is the entry point or the point where the java program starts to execute/run
+Line 3 -> It is something used to print on the console

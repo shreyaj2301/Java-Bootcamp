@@ -1,0 +1,99 @@
+Date: 08 Feb 2024
+Time: 07:00 PM
+Day 1
+Course: CSE Bootcamp 
+
+1. Course details 
+	 - Prequisite : 
+		- English [Intermediate], basics computer, 
+		- No programming background.
+		- myth: diffcult
+		[What, why, when, how, which]
+
+Topic: Introduction to Computer, Programs, Software, Programming Language, Java
+
+Computer - Compute [calculations]
+input -> processes -> output
+
+0 and 1
+
+0 no voltage
+1 high voltage
+
+Binary Number Systems (0, 1)
+Octal Number Systems (0,1,2,3,4,5,6,7)
+Decimal Number System (0,1,2,3,4,5,6,7,8,9)
+Hexadecimal Number System (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
+
+
+
+What is a program?  Set of instructions given to a computer to perform a certain task.
+
+What is a software? group of multiple programs
+
+Programming -> Writing instructions to the computer to get the task done.
+
+Programming Language -> It is a languaguare used by programmers to communicate with the computer
+
+
+Binary Language -> 
+
+
+Assembler -> Used English 
+
+
+High Level Language -> 
+C, C++, Java, Python, etc.
+
+
+
+Core Java -> 
+	Platform independent - why?
+	Simple (removed complex concepts like pointers, virtual function, memory allocators, memory management)
+	Object Oriented Language -> It is a way to represent real world entities in programming e.g a chair. It has four legs(properties). Anyone can sit on the chair(Behaviour)
+
+
+C -> 
+
+code -> compiler -> binary code .exe
+
+Platform - nothing but our Operating System (Windows, linux, IOS, Ubuntu)
+
+Platform Independence -> 
+
+Machine Understandable Code - Binary Code - Low Level Code
+
+Java Code -> Compiler -> Intermediatory code/ Byte code -> platform independent -> binary code
+
+WORA - write once run anywhere
+
+
+jdk - java development kit
+
+jre - java runtime environment -> platform dependent
+
+JVM - java virtual machine -> platform dependent
+
+
+
+
+Frontend -> Wahtever we see on the screen is called as frontend
+
+Server - A machine that is ON 24/7.
+
+
+Types of Application -
+	Standalone Applications - Something which does not requires Internet
+	Web Applications - Something which requires Internet
+	Enterprise Applications - These are large applications, these are distributed
+	Console Based Applications - Terminal, cmd, git bash, powershell -> output
+
+
+Q. What is the difference between website and web application?
+-Website is static whereas web application is Dyanmic
+
+Q. What is static data?
+-Same for everyone
+
+Q. What is dynamic data?
+-Data changes according to the user
