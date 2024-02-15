@@ -1,0 +1,75 @@
+Date: 13 Feb 2024
+Time: 08:30 AM
+Day 5
+Course: CSE Bootcamp 
+
+
+Topic: 
+    operator precedence. ✅
+    Strings intro ✅
+    difference print and println. ✅
+    Complex situations ✅
+	Remaining Operators.
+
+
+Operator Precedence - 
+
+    bracket -> / -> % -> * -> + -> -
+
+
+String Intro - 
+    group of characters 
+    always remember - we have to write a string in double quotes only
+
+    "Iron Man"
+    "Arvind Gavali"
+    "9158/6544";
+    "✅😅😇";
+
+difference print and println.
+    print - It will print the output in the same line
+    println - It will print the output int the next line automatically
+
+
+Complex situations -
+    Whenever we get a string in between an expression then the Remaining expression after that string will be treated as string itself.
+
+
+
+Remaining Operators - 
+    Arithmetic Operator - /,+,-,*,%
+    Comparision Operators - >, <, >=, <=, ==, != 
+       - will always give you a boolean output
+    Boolean Operators/Logical Operator - &&, ||, !, ^
+        - they will always giuve us a boolean output
+    Truth Table for AND(&&) operator
+    A       B       o/p
+    True    True    True
+    True    False   False
+    False   True    False
+    False   False   False
+
+
+    Truth Table for OR(||) operator
+    A       B       o/p
+    True    True    True
+    True    False   True
+    False   True    True
+    False   False   False
+
+
+    Truth Table for NOT(!) operator
+    A       O/P      
+    True    False    
+    False   True   
+
+    Truth Table for XOR(^) operator
+    A       B       o/p
+    True    True    False
+    True    False   True
+    False   True    True
+    False   False   False
+
+    20 Different -> different operators/ operator precendece/ complex situations
+
+    5 more programs on String
