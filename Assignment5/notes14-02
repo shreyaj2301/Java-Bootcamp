@@ -1,0 +1,69 @@
+﻿Date: 14 Feb 2024
+Time: 08:30 AM
+Day 6
+Course: CSE Bootcamp 
+
+
+Topic: 
+    Literals-
+
+    Defining multiple Variabels of same type in single line ✅
+
+	Remaining Operators-
+        -Assignment Operator ✅
+        -Bitwise Operator ✅
+        -increment/decrement operator ✅
+
+
+
+
+Liretal - It is a value that we store inside any variable
+
+
+Assignment Operator -
+    =
+
+    a = a + b;
+    a += b;
+
+    a = a - b;
+    a -= b;
+
+    a = a * b;
+    a *= b;
+
+    a = a / b;
+    a /= b;
+
+    a = a % b;
+    a %= b;
+
+
+Bitwise Operators - &, |, ^, ~, >>, <<, >>>, <<<.
+
+increment and decrement operator - 
+
+    post increment and post decrement
+
+    pre increment and pre decrement
+
+
+a = a + 1;
+a += 1;
+a++;
+
+a = a - 1;
+a -= 1;
+a--;
+
+a++ -> post increment
+a-- -> post decrement
+
+++a -> pre increment
+--a -> pre decrement
+
+
+
+assignment -> 21 programs of increment and decrement operator
+10 programs on assignment Operators;
+
