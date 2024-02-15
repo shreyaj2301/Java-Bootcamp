@@ -1,0 +1,35 @@
+﻿Date: 15 Feb 2024
+Time: 08:30 AM
+Day 7
+Course: CSE Bootcamp 
+
+
+Topic -
+
+    -ternary operator ✅
+    
+    Conditional Statements - 
+        if Statements  ✅ 
+        if-else Statements ✅
+        if-else if ladder Statements ✅
+        nested if-else statements ✅
+
+
+    Contitional Statement - 
+        This is a part of the control flow statement
+
+    if statement
+    syntax - 
+
+     if(boolean value){
+        // block will get executed if the value is true
+     }
+
+     for every else block, if block is mandatory
+     but for every if block, else block is not mandatory
+
+     else is optional.
+
+
+     28 programs on everything - if statement, if-else statement, if-else ladeer statement, nested statement
+     5 separate programs on ternary operator.
